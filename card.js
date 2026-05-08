@@ -1,71 +1,71 @@
         const CARDS_DATA = [
             {
                 title: "دبیرستان",
-                image: "./2.jpg"
+                image: "https://cdn.imgurl.ir/uploads/h11937_2.jpg"
             },
             {
                 title: "مشهد",
-                image: "./3.jpg"
+                image: "https://cdn.imgurl.ir/uploads/z455_3.jpg"
             },
             {
                 title: "🌸 پارک گیاه شناسی",
-                image: "./4.jpg"
+                image: "https://cdn.imgurl.ir/uploads/v664405_4.jpg"
             },
             {
                 title: "اتاق فرار",
-                image: "./5.jpg"
+                image: "https://cdn.imgurl.ir/uploads/h58708_5.jpg"
             },
             {
                 title: "دبیرستان",
-                image: "./6.jpg"
+                image: "https://cdn.imgurl.ir/uploads/e587559_6.jpg"
             },
             {
                 title: "",
-                image: "./8.jpg"
+                image: "https://cdn.imgurl.ir/uploads/d099720_8.jpg"
             },
             {
                 title: "منطقه آسیا",
-                image: "./9.jpg"
+                image: "https://cdn.imgurl.ir/uploads/l315043_9.jpg"
             },
             {
                 title: "بام تهران",
-                image: "./10.jpg"
+                image: "https://cdn.imgurl.ir/uploads/e25411_10.jpg"
             },
             {
                 title: "موزه کامپیوتر",
-                image: "./11.jpg"
+                image: "https://cdn.imgurl.ir/uploads/w290373_11.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./12.jpg"
+                image: "https://cdn.imgurl.ir/uploads/q93_12.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./13.jpg"
+                image: "https://cdn.imgurl.ir/uploads/h17708_13.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./14.jpg"
+                image: "https://cdn.imgurl.ir/uploads/c65707_14.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./15.jpg"
+                image: "https://cdn.imgurl.ir/uploads/l56987_15.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./16.jpg"
+                image: "https://cdn.imgurl.ir/uploads/i655718_16.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./17.jpg"
+                image: "https://cdn.imgurl.ir/uploads/j6697_17.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./18.jpg"
+                image: "https://cdn.imgurl.ir/uploads/u997940_18.jpg"
             },
             {
                 title: "طفولیت",
-                image: "./19.jpg"
+                image: "https://cdn.imgurl.ir/uploads/t390973_19.jpg"
             },
             
         ];
